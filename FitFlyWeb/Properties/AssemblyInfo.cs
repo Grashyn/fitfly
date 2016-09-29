@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FitFly_Web")]
+[assembly: AssemblyTitle("FitFlyWeb")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("FitFly_Web")]
+[assembly: AssemblyProduct("FitFlyWeb")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("135c610b-aa92-422f-ac4c-f1d9ee91b714")]
+[assembly: Guid("32af25ac-9c28-42a2-99dd-847cffa69913")]
 
 // Version information for an assembly consists of the following four values:
 //
