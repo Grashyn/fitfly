@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitFlyWeb", "FitFlyWeb\FitFlyWeb.csproj", "{32AF25AC-9C28-42A2-99DD-847CFFA69913}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitFlyWebApi", "FitFlyWebApi\FitFlyWebApi.csproj", "{30031957-6E0F-4A70-BA5C-F01633EEC751}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{32AF25AC-9C28-42A2-99DD-847CFFA69913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{32AF25AC-9C28-42A2-99DD-847CFFA69913}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{32AF25AC-9C28-42A2-99DD-847CFFA69913}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{32AF25AC-9C28-42A2-99DD-847CFFA69913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30031957-6E0F-4A70-BA5C-F01633EEC751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30031957-6E0F-4A70-BA5C-F01633EEC751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30031957-6E0F-4A70-BA5C-F01633EEC751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30031957-6E0F-4A70-BA5C-F01633EEC751}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
